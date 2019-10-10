@@ -24,6 +24,6 @@ O mesmo consiste em um cadastro de produtor rural com os seguintes dados:
 # Requisitos técnicos
 
  - O front-end deverá ser escrito em [ReactJS](http://reactjs.org) usando o [Redux](https://redux.js.org/) para controlar o estado da aplicação.
- - Os dados inputados pelo usuário podem ser salvos em [LocalStorage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/Window.localStorage), porém será um grande diferencial se você montar um backend com Express/Adonis e conexão com MySQL.
+ - Os dados inputados pelo usuário podem ser salvos em [LocalStorage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/Window.localStorage), porém será um grande diferencial se você montar uma camada back-end baseado em NodeJS e conexão com MySQL.
  - Não envie a solução como anexo, suba os fontes para seu Github (ou outro repositório) e envie o link para *guilherme@brain.agr.br*. 
 
