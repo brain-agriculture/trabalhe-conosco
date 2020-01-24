@@ -32,9 +32,7 @@ O mesmo consiste em um cadastro de produtor rural com os seguintes dados:
 
 ![Dashboard da ferramenta](https://brain.agr.br/assets/docs/Dashboard.png)
 
-
 ![Tela de cadastro](https://brain.agr.br/assets/docs/Cadastro.png)
-
 
 ![Tabela para edição e remoção](https://brain.agr.br/assets/docs/Datatable.png)
 
